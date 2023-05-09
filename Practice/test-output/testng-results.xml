@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T12:07:51 IST" name="Default suite" finished-at="2023-04-12T12:08:07 IST" duration-ms="16515">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T12:07:51 IST" name="Default test" finished-at="2023-04-12T12:08:07 IST" duration-ms="16515">
+      <class name="locators.login_page_testCases$Cases_test_case">
+        <test-method signature="verifyCasesAdvanceSearch()[pri:0, instance:locators.login_page_testCases$Cases_test_case@3a93b025]" started-at="2023-04-12T12:07:51 IST" name="verifyCasesAdvanceSearch" finished-at="2023-04-12T12:08:07 IST" duration-ms="16390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCasesAdvanceSearch -->
+      </class> <!-- locators.login_page_testCases$Cases_test_case -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
